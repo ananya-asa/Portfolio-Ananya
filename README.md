@@ -22,7 +22,7 @@ A disciplined and passionate Computer Science student on a mission to solve comp
 This is where I build and prove my skills daily. My training began in August 2025.
 
 <p align="left">
-  <a href="https://codeforces.com/profile/ASA624" target="_blank"><img src="https://img.shields.io/badge/Codeforces-Pupil%20(726)-blue?style=for-the-badge&logo=codeforces" alt="Codeforces Profile"/></a>
+  <a href="https://codeforces.com/profile/ASA624" target="_blank"><img src="https://img.shields.io/badge/Codeforces-Newbie%20(726)-grey?style=for-the-badge&logo=codeforces" alt="Codeforces Profile"/></a>
   <a href="https://leetcode.com/u/vXzDmRAUGD/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Profile"/></a>
 </p>
 
