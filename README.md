@@ -37,6 +37,6 @@ This is where I build and prove my skills daily. My training began in August 202
 ### 🛠️ My Toolkit
 
 -   **Languages:** `C++` (for competitive programming & performance), `Python` (for scripting & data analysis)
--   **Core Skills:** `Data Structures`, `Algorithms`, `Algorithmic Problem-Solving`, `Greedy Algorithms`, `Backtracking`, `Dynamic Programming`
+-   **Core Skills:** `Data Structures`, `Algorithms`, `Algorithmic Problem-Solving`, `Greedy Algorithms`, `Backtracking`, `Dynamic Programming`,`Full stack Web Dev`
 
 ---
